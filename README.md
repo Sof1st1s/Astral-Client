@@ -7,7 +7,7 @@ TUTORIAL (Important):
 2. Download Astralis.exe
 (If your browser or antivirus blocks it, disable the antivirus temporarily and download the file. Read why the antivirus does this above)
 3. Open the game
-4. Double click the .exe and wait for a few seconds before it injects. A notification will show up in the game when it does.
+4. Double click the .exe and wait for a few seconds before it injects, a notification will show up in the game when it does
 5. Enjoy the cheat!
 
 IF THERE ARE ANY PROBLEMS, CONTACT "Indefatigablee" ON DISCORD
